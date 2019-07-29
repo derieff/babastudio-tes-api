@@ -1,0 +1,9 @@
+Link API :
+http://localhost/babastudio-tes-api/public/api/store/file
+
+(Example) Body :
+{
+ 'username' => 'user1'
+ 'email' => 'user1@gmail.com'
+ 'file' => (uploads file)
+}
